@@ -1,0 +1,146 @@
+tap "heroku/brew"
+tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/cask-fonts"
+tap "homebrew/cask-versions"
+tap "homebrew/core"
+tap "homebrew/services"
+tap "mas-cli/tap"
+tap "mongodb/brew"
+
+cask "1password"
+cask "1password-cli"
+cask "alfred"
+cask "cyberduck"
+cask "db-browser-for-sqlite"
+cask "discord"
+cask "docker"
+cask "dropbox"
+cask "figma"
+cask "font-fira-mono-for-powerline"
+cask "font-firacode-nerd-font"
+cask "font-hack-nerd-font"
+cask "fork"
+cask "google-chrome"
+cask "google-cloud-sdk"
+cask "gpg-suite"
+cask "hammerspoon"
+cask "hyper"
+cask "iina"
+cask "insomnia"
+cask "iterm2"
+cask "kap"
+cask "karabiner-elements"
+cask "keybase"
+cask "ngrok"
+cask "notion"
+cask "sequel-pro"
+cask "slack"
+cask "the-unarchiver"
+cask "virtualbox"
+cask "visual-studio-code"
+cask "zoom"
+
+brew "mas"
+# Search tool like grep, but optimized for programmers
+brew "ack"
+# Library for manipulating PNG images
+brew "libpng"
+# Cross-platform make
+brew "cmake"
+# GNU File, Shell, and Text utilities
+brew "coreutils"
+# Get a file from an HTTP, HTTPS or FTP server
+brew "curl"
+# Good-lookin' diffs with diff-highlight and more
+brew "diff-so-fancy"
+# Command-line tool for DigitalOcean
+brew "doctl"
+# Image manipulation library
+brew "jpeg"
+# Play, record, convert, and stream audio and video
+brew "ffmpeg"
+# Lint your Python code for style and logical errors
+brew "flake8"
+# GIF image/animation creator/editor
+brew "gifsicle"
+# Distributed revision control system
+brew "git"
+# Enable transparent encryption/decryption of files in a git repo
+brew "git-crypt"
+# Open GitHub webpages from a terminal
+brew "git-open"
+# GNU Pretty Good Privacy (PGP) package
+brew "gnupg", link: false
+# Improved top (interactive process viewer)
+brew "htop"
+# User-friendly cURL replacement (command-line HTTP client)
+brew "httpie"
+# Ping-like tool for HTTP requests
+brew "httping"
+# Tools and libraries to manipulate images in many formats
+brew "imagemagick"
+# Remote terminal application
+brew "mosh"
+# Port scanning utility for large networks
+brew "nmap"
+# 7-Zip (high compression file archiver) implementation
+brew "p7zip"
+# Shell command parallelization utility
+brew "parallel"
+# https://github.com/driesvints/dotfiles/issues/20
+brew 'pkg-config'
+# Python dependency management tool
+brew "pipenv"
+# PDF rendering library (based on the xpdf-3.0 code base)
+brew "poppler"
+# Reattach process (e.g., tmux) to background
+brew "reattach-to-user-namespace"
+# Persistent key-value database, with built-in net interface
+brew "redis"
+# Powerful, clean, object-oriented scripting language
+brew "ruby"
+# Add a public key to a remote machine's authorized_keys file
+brew "ssh-copy-id", link: true
+brew 'stripe/stripe-cli/stripe'
+# Simplified and community-driven man pages
+brew "tldr"
+# Terminal multiplexer
+brew "tmux"
+# CLI tool that moves files or folder to the trash
+brew "trash"
+# Display directories as trees (with optional color/HTML output)
+brew "tree"
+# Utilities for interacting with PyPI
+brew "twine-pypi"
+# Secures, stores, and tightly controls access to secrets
+brew "vault"
+# Vi 'workalike' with many additional features
+brew "vim"
+# Internet file retriever
+brew "wget"
+# Show the current WiFi network password
+brew "wifi-password"
+# JavaScript package manager
+brew "yarn"
+# Tracks most-used directories to make cd smarter
+brew "z"
+brew "zsh-autosuggestions"
+brew "zsh-syntax-highlighting"
+# Everything you need to get started with Heroku
+brew "heroku/brew/heroku"
+# Mac App Store command-line interface
+brew "mas-cli/tap/mas"
+# High-performance, schema-free, document-oriented database
+brew "mongodb/brew/mongodb-community"
+
+
+mas "GarageBand", id: 682658836
+mas "iMovie", id: 408981434
+mas "Keynote", id: 409183694
+mas "Magnet", id: 441258766
+mas "Numbers", id: 409203825
+mas "Pages", id: 409201541
+mas "Termius", id: 1176074088
+mas "WiFi Explorer", id: 494803304
+mas "Xcode", id: 497799835

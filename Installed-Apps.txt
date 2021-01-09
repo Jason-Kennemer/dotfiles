@@ -1,0 +1,83 @@
+total 16
+drwxrwxr-x  82 root       admin  2624 Jan  8 12:32 .
+drwxr-xr-x  20 root       wheel   640 Jan  1  2020 ..
+-rw-r--r--@  1 jkennemer  admin  6148 Dec 27 10:43 .DS_Store
+-rw-r--r--   1 root       wheel     0 Jan  1  2020 .localized
+drwxr-xr-x   3 jkennemer  staff    96 Nov 16 14:38 1Password 7.app
+drwxrwxr-x@  6 root       wheel   192 Dec  9 09:32 Adobe Acrobat DC
+drwxrwxr-x@  9 root       admin   288 Jul 25 02:28 Adobe Bridge 2020
+drwxrwxr-x@  9 root       admin   288 Oct 23 13:19 Adobe Bridge 2021
+drwxr-xr-x@  6 root       admin   192 Oct  9 08:01 Adobe Creative Cloud
+drwxr-xr-x@ 11 root       wheel   352 Nov 28 14:38 Adobe Illustrator 2021
+drwxrwxr-x@ 15 root       admin   480 Dec  1 14:59 Adobe InDesign 2021
+drwxrwxr-x@  5 root       admin   160 Dec 14 23:17 Adobe Media Encoder 2020
+drwxr-xr-x@  9 root       wheel   288 Dec 14 23:07 Adobe Photoshop 2021
+drwxrwxr-x@  5 root       admin   160 Dec 14 23:13 Adobe Premiere Pro 2020
+drwxrwxr-x@  5 root       admin   160 Dec 17 12:53 Adobe XD
+drwxr-xr-x@  3 jkennemer  admin    96 Nov 26  2019 Airtame.app
+drwxr-xr-x@  3 jkennemer  admin    96 Dec 21 08:59 Anima.app
+dr-xr-xr-x   3 root       wheel    96 Apr 19  2020 BOINCManager.app
+drwxrwxr-x   3 jkennemer  staff    96 Apr 16  2020 Cisco Webex Meetings.app
+drwxr-xr-x   3 jkennemer  staff    96 Sep 12 15:45 Cyberduck.app
+drwxr-xr-x   3 jkennemer  staff    96 Nov 10 00:56 DB Browser for SQLite.app
+drwxr-xr-x@  3 jkennemer  admin    96 Dec 21 04:58 Docker.app
+drwxr-xr-x@  3 jkennemer  admin    96 Jan 18  2017 FWUpdater.app
+drwxr-xr-x@  3 root       wheel    96 Jan  4 09:52 Fantastical.app
+drwxr-xr-x   3 jkennemer  staff    96 Jan  1  1980 Figma.app
+drwxr-xr-x   3 root       admin    96 Dec  2 16:05 Foxit Reader.app
+drwxr-xr-x   3 jkennemer  staff    96 Oct 30  2019 GIMP-2.10.app
+drwxr-xr-x   3 root       admin    96 Nov 20 10:18 GPG Keychain.app
+drwxr-xr-x@  3 root       wheel    96 Dec 11 08:18 GarageBand.app
+drwxr-xr-x   3 jkennemer  staff    96 Jan  8  2020 GitHub Desktop.app
+drwxr-xr-x   3 jkennemer  staff    96 Oct 21 20:15 GoToMeeting.app
+drwxr-xr-x   3 root       wheel    96 Dec 10 08:44 Google Docs.app
+drwxr-xr-x   3 root       wheel    96 Dec 10 08:44 Google Drive File Stream.app
+drwxr-xr-x   3 root       wheel    96 Dec 10 08:44 Google Sheets.app
+drwxr-xr-x   3 root       wheel    96 Dec 10 08:44 Google Slides.app
+drwxr-xr-x@  3 root       wheel    96 Dec 16 13:37 HP Smart.app
+drwxr-xr-x@  3 root       wheel    96 Dec 27 10:36 Honey.app
+drwxr-xr-x@  3 root       wheel    96 May 12  2020 Houseparty.app
+drwxr-xr-x@  3 jkennemer  staff    96 Sep  9 19:37 Inkscape.app
+drwxr-xr-x   3 root       wheel    96 Jun 27  2020 Karabiner-Elements.app
+drwxr-xr-x   3 root       wheel    96 Jun 27  2020 Karabiner-EventViewer.app
+drwxr-xr-x@  3 root       wheel    96 Dec  1 16:26 Keynote.app
+drwxr-xr-x@  3 jkennemer  admin    96 May  4  2020 Local.app
+drwxr-xr-x@  3 jkennemer  staff    96 Mar 24  2020 Loopback.app
+drwxr-xr-x@  3 root       wheel    96 Nov 12 14:24 Magnet.app
+drwxr-xr-x   3 jkennemer  staff    96 Dec 21 10:43 Memory.app
+drwxr-xr-x   3 jkennemer  admin    96 Jan  8 02:54 Microsoft Edge.app
+drwxrwxr-x   3 root       wheel    96 Dec 15 14:35 Microsoft Excel.app
+drwxrwxr-x   3 root       wheel    96 Dec 15 14:36 Microsoft OneNote.app
+drwxrwxr-x@  3 root       wheel    96 Dec 16 13:51 Microsoft Outlook.app
+drwxrwxr-x   3 root       wheel    96 Dec 15 14:23 Microsoft PowerPoint.app
+drwxr-xr-x@  3 root       wheel    96 Dec  2 13:11 Microsoft Remote Desktop.app
+drwxr-xr-x   3 root       wheel    96 Oct  2 13:27 Microsoft Teams.app
+drwxrwxr-x   3 root       wheel    96 Dec 16 10:28 Microsoft Word.app
+drwxr-xr-x@  3 jkennemer  admin    96 May  7  2020 MongoDB Compass Community.app
+drwxr-xr-x@  3 root       wheel    96 Nov 17 11:53 NetSpot.app
+drwxr-xr-x@  3 root       wheel    96 Dec 18 13:35 NordVPN IKE.app
+drwxr-xr-x@  3 root       wheel    96 Nov 12 20:29 Numbers.app
+drwxr-xr-x@  3 jkennemer  staff    96 Apr 12  2020 OfxGet OSX.app
+drwxr-xr-x   3 root       wheel    96 Oct  2 14:24 OneDrive.app
+drwxr-xr-x@  3 root       wheel    96 Nov 12 20:26 Pages.app
+drwxr-xr-x@  3 root       wheel    96 Dec  8 13:17 Pixelmator.app
+drwxr-xr-x@  3 jkennemer  staff    96 May  8  2020 Postman.app
+drwxr-xr-x   3 root       wheel    96 Nov 12 22:50 PowerShell.app
+drwxr-xr-x   3 root       wheel    96 Jan  6 18:42 Safari Technology Preview.app
+drwxr-xr-x@  3 root       wheel    96 Jan  1  2020 Safari.app
+drwxr-xr-x   3 jkennemer  staff    96 Feb 15  2020 Sketch.app
+drwxr-xr-x@  3 root       wheel    96 Dec 31 02:24 Spark.app
+drwxr-xr-x@  3 jkennemer  admin    96 Apr  7  2020 Steam.app
+drwxr-xr-x@  3 root       wheel    96 Jan  8 12:21 Termius.app
+drwxr-xr-x@  3 root       wheel    96 Dec  1 16:26 Todoist.app
+drwxr-xr-x   3 jkennemer  admin    96 Dec  9 13:49 Toggl Track.app
+drwxr-xr-x@  3 root       wheel    96 Dec 11 08:16 Transmit.app
+drwxr-xr-x@  3 root       wheel    96 Jun 15  2020 Trello.app
+drwxr-xr-x   8 root       wheel   256 Dec 15 09:58 Utilities
+drwxr-xr-x   3 root       admin    96 Oct 27 22:11 VirtualBox.app
+drwxr-xr-x@  3 jkennemer  admin    96 Sep  5 06:52 Webull Desktop.app
+drwxr-xr-x@  3 root       wheel    96 Dec 18 13:35 WiFi Explorer.app
+drwxr-xr-x@  3 root       wheel    96 Dec 14 23:05 Xcode.app
+drwxr-xr-x@  3 root       wheel    96 Nov  6 19:22 YubiKey Manager.app
+drwxr-xr-x@  3 root       wheel    96 Dec 14 15:37 iMovie.app
+drwxr-xr-x   3 jkennemer  wheel    96 Jan  8 12:32 zoom.us.app
